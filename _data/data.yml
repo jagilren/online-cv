@@ -12,35 +12,35 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: sistemas@inversionesler.com.co
+    phone: 604 316 836 81 78
+    timezone: America/Bogota Timezone
     citizenship:
     website: jagilren.github.io/online-cv #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: jagilren
+    xing: jagilren
+    github: jagilren
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    gitlab:jagilren
+    bitbucket:jagilren
+    twitter: '@jagilren'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars:jagilren
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
-        level: Native
+        level: Read
 
       - idiom: French
-        level: Professional
+        level: Null
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Cycling
         link:
 
       - item: Snowboarding
